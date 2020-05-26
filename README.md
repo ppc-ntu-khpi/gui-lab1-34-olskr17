@@ -10,5 +10,4 @@
 8. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
 ## Результат
-
-![Результат] <img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-olskr17/blob/master/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82.png" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab1-34-olskr17/blob/master/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82.png" width="50%"/>
